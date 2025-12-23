@@ -6,8 +6,8 @@ import java.util.Map;
 
 //Student class.
 class Student {
-  int rollno;
-  String name;
+  private int rollno;
+  private String name;
 
   Student(int rollno, String name) {
     this.rollno = rollno;
